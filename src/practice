@@ -1,5 +1,0 @@
-useEffect(() => {
-  async function fetchData() => {
-      
-  }
-}, [])
